@@ -22,6 +22,6 @@ modernização de sistemas legados e liderança técnica em times globais.
 ## Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arielarrais)
-- 🐙 [GitHub](https://github.com/arielarrais)
+
 
 Se quiser bater um papo sobre .NET, arquitetura, cloud ou qualquer coisa do universo tech — ou só trocar uma ideia sobre carreira — fico à disposição!
