@@ -1,4 +1,4 @@
-# Olá, eu sou o Ariel 👋
+# Olá, eu sou o Ariel
 
 Engenheiro de Software com 18 anos de experiência em desenvolvimento backend, microsserviços e cloud
 computing (AWS, Azure, Oracle Cloud). Especialista em C#/.NET e ASP.NET Core, arquiteturas escaláveis, integrações
